@@ -1,0 +1,7 @@
+name: Bukkit Player Reporter
+main: com.gabrielsimmer.bukkitplayerreporter.PlayerReporting
+version: 1.0
+author: Gabriel Simmer
+commands:
+   report:
+      description: Report a player to the staff.
